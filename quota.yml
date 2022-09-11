@@ -3,9 +3,9 @@ apiVersion: v1
 kind: ResourceQuota
 
 metadata:
-  namespace: hanan-tawazun
+  namespace: dareen-tawazun
 
-  name: mem-cpu-quota
+  name: quota
 
 spec:
 
